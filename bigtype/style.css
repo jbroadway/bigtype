@@ -1,0 +1,104 @@
+/**
+ * BigType Theme for Elefant CMS
+ * http://www.elefantcms.com/
+ *
+ * A theme celebrating large and readable type.
+ */
+
+body {
+	background: #f5f5f5;
+	color: #030303;
+	font-size: 100%; /* 16px */
+	font-family: Georgia, serif;
+	border-top: 8px solid #297770;
+}
+
+h1, h2, h3 {
+	color: #BB5327;
+}
+
+h1 { font-size: 2.0em; }
+h2 { font-size: 1.5em; color: #C66D25; }
+h3 { font-size: 1.2em; color: #D87F27; }
+
+a {
+	color: #297770;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+ul {
+	list-style-type: square;
+}
+
+#wrapper {
+	margin: auto;
+	margin-top: 15px;
+}
+
+#head {
+	border-bottom: 3px solid #ccc;
+}
+
+	#head h1 {
+		text-shadow: none;
+		text-align: left;
+		font-size: 1.5em;
+		padding: 0;
+		margin: 0;
+		border: 0;
+		color: #124C45;
+		text-transform: uppercase;
+	}
+
+		#head h1 span {
+			color: #BB5327;
+			font-weight: normal;
+		}
+
+#menu {
+	margin-top: -30px;
+	margin-bottom: 20px;
+}
+
+	#menu ul {
+		list-style-type: none;
+		margin: 0;
+		padding: 0;
+		float: right;
+	}
+
+	#menu ul li {
+		list-style-type: none;
+		margin: 0;
+		padding: 0;
+		display: inline;
+	}
+
+	#menu a {
+		display: block;
+		float: left;
+		padding-left: 15px;
+	}
+
+#body {
+	margin-top: 0px;
+}
+
+#sidebar {
+	margin-top: 5px;
+	margin-left: 30px;
+	margin-right: -30px;
+}
+
+#footer {
+	margin-top: 10px;
+	padding-top: 3px;
+	padding-bottom: 25px;
+	text-align: right;
+	border-top: 3px solid #ccc;
+	color: #666;
+}
