@@ -18,8 +18,8 @@ and a fun but professional colour palette.
 
 Homepage:
 
-![](http://github.com/jbroadway/bigtype/raw/master/bigtype/screenshot-index.png)
+![](http://github.com/jbroadway/bigtype/raw/master/screenshot-index.png)
 
 Inner pages:
 
-![](http://github.com/jbroadway/bigtype/raw/master/bigtype/screenshot-inner.png)
+![](http://github.com/jbroadway/bigtype/raw/master/screenshot-inner.png)
